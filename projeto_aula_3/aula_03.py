@@ -5,5 +5,11 @@ def divide(a, b):
 def subtrai(a, b):
     print(f"{a} - {b} = {a - b}")
 
+
+def soma(a, b):
+    print(f"{a} + {b} = {a + b}")
+
+
 divide(20, 2)
 subtrai(43, 1)
+soma(41, 1)
