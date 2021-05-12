@@ -2,3 +2,4 @@ me_ignore.txt
 *.py
 !arquivo_3.py
 pasta_teste/
+!aula_03.py
